@@ -95,18 +95,6 @@ Provides detailed information about selected missions.
 
 ---
 
-# Date Format
-
-All mission dates and launch times displayed in the application follow the:
-
-**Month / Date / Year**
-
-Example:
-
-**06/15/2026, 10:30 AM**
-
----
-
 # API Overview
 
 ### Launch Library 2 API
